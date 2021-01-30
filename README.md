@@ -1,4 +1,5 @@
-### Hi there 👋
+### Heyho there, I'am Han 👋
+- 🌱 I’m currently learning Web and Aplication Development.
 
 <!--
 **FarhanKurnia/FarhanKurnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
