@@ -1,6 +1,6 @@
 ### Heyho there, I'am Han 👋
 🌱 I’m currently learning Web and Application Development.
-    Hope I can make something cool stuff right here and this Account is for my college assignment. Thx
+    Hope I can make something cool stuff right here and this Account is currenly for my college assignment purpose. Thx
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
