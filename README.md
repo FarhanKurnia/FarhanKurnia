@@ -1,6 +1,9 @@
 ### Heyho there, I'am Han 👋
-🌱 I’m currently learning Web and Application Development.
-    Hope I can make something cool stuff right here and this Account is currenly for my college assignment purpose. Thx
+🌱 I’m currently learning Web and Application Development (Especially Backend) with Laravel/Lumen
+👯 I’m looking to collaborate on every open source project
+
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
