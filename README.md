@@ -3,11 +3,6 @@
 👯 I’m looking to collaborate on every open source project
 
 
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-
 <!--
 **FarhanKurnia/FarhanKurnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
