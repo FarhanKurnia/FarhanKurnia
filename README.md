@@ -1,5 +1,5 @@
 ### Heyho there, I'am Han 👋
-🌱 I’m currently learning Web and Application Development (Especially Backend) with Laravel/Lumen <br>
+🌱 I’m currently learning Web and Application Development (Especially Backend) with Golang and Laravel/Lumen <br>
 👯 I’m looking to collaborate on every open source project
 
 
