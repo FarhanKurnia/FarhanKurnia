@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/refs/heads/gh-pages/images/brand/logo-dark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="apachekafka" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhankurnia&show_icons=true&locale=en&layout=compact" alt="farhankurnia" /></p> -->
