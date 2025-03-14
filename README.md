@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/refs/heads/gh-pages/images/brand/logo-dark.svg" alt="express" width="40" height="40"/> </a> </p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhankurnia&show_icons=true&locale=en&layout=compact" alt="farhankurnia" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhankurnia&layout=donut&locale=en&langs_count=8" alt="farhankurnia" /></p>
 
