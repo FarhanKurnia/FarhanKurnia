@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/refs/heads/gh-pages/images/brand/logo-dark.svg" alt="express" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/refs/heads/gh-pages/images/brand/logo-dark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="40" height="40"/> </a> 
+</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhankurnia&show_icons=true&locale=en&layout=compact" alt="farhankurnia" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhankurnia&layout=donut&locale=en&langs_count=8" alt="farhankurnia" /></p>
